@@ -1,6 +1,8 @@
 # Multilayer Perceptron
 
-A simple neural network built from scratch. Doesn't use any machine learning libraries.   
+A neural network built entirely from scratch in Python. No PyTorch, TensorFlow, or scikit-learn. Every piece, from the forward pass to backpropagation, is implemented by hand.
+
+Trained on the MNIST dataset, it reaches **92% test accuracy** at classifying handwritten digits using only sigmoid activations.
 
 ## Learning Resources
 
