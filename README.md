@@ -4,6 +4,8 @@ A fundamental multilayer neural network built entirely from scratch in Python. N
 
 Trained on the MNIST dataset, it reaches **92% test accuracy** at classifying handwritten digits.
 
+<img width="860" height="645" alt="ditch-mnist" src="https://github.com/user-attachments/assets/5ed352a6-fd90-4fc2-9817-73c443282747" />
+
 ## Learning Resources
 
 - [But what is a neural network?](https://www.youtube.com/watch?v=aircAruvnKk) – 3Blue1Brown
