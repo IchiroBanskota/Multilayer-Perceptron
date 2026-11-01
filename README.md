@@ -1,6 +1,6 @@
 # Multilayer Perceptron
 
-A simple neural network built from scratch.
+A simple neural network built from scratch. Doesn't use any machine learning libraries.   
 
 ## Learning Resources
 
