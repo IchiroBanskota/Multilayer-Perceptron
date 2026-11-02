@@ -15,3 +15,4 @@ Trained on the MNIST dataset, it reaches **92% test accuracy** at classifying ha
 - [Gradient Descent, Step-by-Step](https://www.youtube.com/watch?v=sDv4f4s2SB8) – StatQuest
 - [Stochastic Gradient Descent, Clearly Explained](https://www.youtube.com/watch?v=vMh0zPT0tLI) – StatQuest
 - [Gradient Descent in 3 minutes](https://www.youtube.com/watch?v=qg4PchTECck) – Visually Explained
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) – Michael Nielsen
