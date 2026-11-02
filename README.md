@@ -1,6 +1,6 @@
 # Multilayer Perceptron
 
-A fundamental multilayer neural network built entirely from scratch in Python. No PyTorch, TensorFlow, or scikit-learn. Every piece, from the forward pass to backpropagation, is implemented by hand.
+Built a multilayer neural network built entirely from scratch in Python. No PyTorch, TensorFlow, or scikit-learn. Every piece, from the forward pass to backpropagation, is implemented by hand.
 
 Trained on the MNIST dataset, it reaches **92% test accuracy** at classifying handwritten digits.
 
