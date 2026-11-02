@@ -1,6 +1,10 @@
 # Multilayer Perceptron
 
-A simple neural network built from scratch.
+Built a multilayer neural network built entirely from scratch in Python. No PyTorch, TensorFlow, or scikit-learn. Every piece, from the forward pass to backpropagation, is implemented by hand.
+
+Trained on the MNIST dataset, it reaches **92% test accuracy** at classifying handwritten digits.
+
+<img width="860" height="645" alt="ditch-mnist" src="https://github.com/user-attachments/assets/5ed352a6-fd90-4fc2-9817-73c443282747" />
 
 ## Learning Resources
 
@@ -11,3 +15,4 @@ A simple neural network built from scratch.
 - [Gradient Descent, Step-by-Step](https://www.youtube.com/watch?v=sDv4f4s2SB8) – StatQuest
 - [Stochastic Gradient Descent, Clearly Explained](https://www.youtube.com/watch?v=vMh0zPT0tLI) – StatQuest
 - [Gradient Descent in 3 minutes](https://www.youtube.com/watch?v=qg4PchTECck) – Visually Explained
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) – Michael Nielsen
